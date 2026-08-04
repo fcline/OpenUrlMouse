@@ -1,0 +1,16 @@
+# Build output
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# User & IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Temporary files
+*.tmp
+*.log
