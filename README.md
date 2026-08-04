@@ -1,7 +1,9 @@
 # OpenUrlHotkey
 
 <p align="center">
-  <video src="assets/video/demo.mp4" controls width="100%"></video>
+  <a href="https://youtu.be/BfhJyIfwcJM">
+    <img src="https://img.youtube.com/vi/BfhJyIfwcJM/maxresdefault.jpg" alt="OpenUrlHotkey Demo" width="100%" />
+  </a>
 </p>
 
 [Русский](#русский) | [English](#english)
