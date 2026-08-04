@@ -1,5 +1,9 @@
 # OpenUrlHotkey
 
+<p align="center">
+  <video src="assets/video/demo.mp4" controls width="100%"></video>
+</p>
+
 [Русский](#русский) | [English](#english)
 
 ---
